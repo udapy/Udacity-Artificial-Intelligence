@@ -1,2 +1,2 @@
-# Udacity-Artificial-Intelligence
+# Udacity-Artificial-Intelligence ND
 Udacity Artificial Intelligence Nano Degree
